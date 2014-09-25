@@ -1,0 +1,127 @@
+html, body, h1, p, h3, form, ul, li, {
+   margin: 0;
+   padding: 0;
+   vertical-align: baseline;
+}
+ol, ul {
+   list-style: none;
+}
+
+html{
+   background: url("../images/noisy.png");  
+   border-top: 30px solid rgba(224, 56, 12, 0.4);
+}
+
+section{
+   text-align: center;
+}
+
+h1{
+   font-size: 48px;
+   color: rgb(58, 58, 58);
+   text-shadow: -2px 3px 5px #fff;
+   font-family: 'Trebuchet MS', Helvetica, sans-serif;
+   margin-top: 30px;
+}
+
+p{
+   color: rgb(119, 119, 119);
+   font-size: 24px;
+   font-family: Georgia, serif;
+}
+
+span{
+   display: inline-block;
+   margin-top: 15px;
+   color: rgb(58, 58, 58);
+   font-weight: bold;
+   text-shadow: -2px 3px 5px #fff; 
+}
+
+#inputForm{
+  border-radius: 3px;
+}
+
+#inputNumber{
+   padding: 5px;
+   border-radius: 3px;
+}
+
+#bnPlay{
+    padding: 5px;
+   border-radius: 3px;
+}
+
+#fbList{
+ 
+}
+
+button:hover{
+  background-color:  rgba(224, 56, 12, 0.4);
+  text-shadow: -2px 3px 5px #fff;
+}
+
+#bnReset{
+   padding: 5px;
+   border-radius: 3px ;
+}
+
+/* class for the <li> list*/
+
+.fb{
+   color:rgb(224, 56, 12);
+   font-size: 24px;
+}
+
+li{
+     color: rgb(58, 58, 58);
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
